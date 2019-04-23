@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ECarSavegalu</string>
+    <string name="get_location">Get Location</string>
+    <string name="eg_pickup_hint">eg: #1 6th cross Hennur</string>
+    <string name="Drop_location">Drop Location</string>
+    <string name="find_ride">Find Ride</string>
+</resources>
